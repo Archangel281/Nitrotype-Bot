@@ -11,7 +11,7 @@
 - pynput
 - pywin32
 
-## Setting up SingeFile
+## Setting up SingleFile
 ### Configure Settings
 1. In the Chrome browser click on the three dots in the top right corner
 2. Click on "Settings"
@@ -26,4 +26,4 @@
 3. On the left-hand-side click on "Extensions"
 4. Click on the burger menu in the top left corner
 5. Click on "Keyboard shortcuts"
-6. Add the <code>Ctrl + Shift + B</code> shortcut to "Activate extension"
+6. Add the <code>Ctrl + Shift + B</code> shortcut to "Activate extension" of the SingleFile extension
