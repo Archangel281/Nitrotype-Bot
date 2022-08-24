@@ -1,11 +1,15 @@
 # Nitrotype-Bot
+This programm is able to perform >7000 wpm in a Nitro Type Race.
 
 ## Requirements
+### Operating System
 - Windows
+
+### Browser
 - Google Chrome
 - <a href="https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?hl=en-GB">SingeFile</a> Chrome Extension
 
-## Python Packages
+### Python Packages
 - beautifulsoup4
 - PyAutoGUI
 - pynput
@@ -27,3 +31,7 @@
 4. Click on the burger menu in the top left corner
 5. Click on "Keyboard shortcuts"
 6. Add the <code>Ctrl + Shift + B</code> shortcut to "Activate extension" of the SingleFile extension
+
+
+## Attention
+Setting the typing speed above ~315 wpm will get you banned!
