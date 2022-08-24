@@ -18,6 +18,7 @@
 3. On the left-hand-side click on "Extensions"
 4. Click on "Details" of the SingeFile extension
 5. Click on "Extension options"
+6. Import the <a href="https://github.com/LevinHinder/Nitrotype-Bot/blob/main/singlefile-settings.json">SingleFile settings</a>
 
 ### Add Shortcut
 1. In the Chrome browser click the three dots in the top right corner
