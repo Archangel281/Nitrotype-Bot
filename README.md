@@ -6,7 +6,7 @@ This programm is able to perform >7000 wpm in a Nitro Type Race.
 - Windows
 
 ### Browser
-- Google Chrome
+- Chromium based browser (Google Chrome recommended)
 - <a href="https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle?hl=en-GB">SingeFile</a> Chrome Extension
 
 ### Python Packages
