@@ -1,5 +1,5 @@
 # Nitrotype-Bot
-This programm is able to perform >7000 wpm in a Nitro Type Race.
+This program is able to perform >7000 wpm in a Nitro Type Race.
 
 ## Requirements
 ### Operating System
