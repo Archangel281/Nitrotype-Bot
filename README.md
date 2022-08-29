@@ -39,7 +39,7 @@ This program is able to perform >7000 wpm in a Nitro Type Race.
 1. Install <a href="https://www.python.org/downloads/">Python</a>
 2. Install all necessary packages. If you don't know how, follow this <a href="https://packaging.python.org/en/latest/tutorials/installing-packages/">this Tutorial</a>.
 3. Inside the <code>main.py</code> script configure following settings:<br>
-    a. <code>WPM</code>: the speed in words per minute [0-∞]<br>
+    a. <code>WPM</code>: the speed in words per minute [1-∞] (not very accurate)<br>
     b. <code>ACCURACY</code>: the accuracy of the typing [0-1]. 0 meaning 0% and 1 meaning 100%<br>
     c. <code>NUMBER_OF_RACES</code>: the number of races before the program stops [1-∞]
 4. Log into your <a href="https://www.nitrotype.com/">Nitro Type Account</a> or create a new one
