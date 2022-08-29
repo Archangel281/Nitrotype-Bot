@@ -34,4 +34,4 @@ This program is able to perform >7000 wpm in a Nitro Type Race.
 
 
 ## Attention
-Setting the typing speed above ~315 wpm will get you banned!
+Setting the typing speed above ~250 wpm will get you banned! The world record is 256 wpm
