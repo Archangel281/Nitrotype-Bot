@@ -3,7 +3,7 @@ This programm is able to perform >7000 wpm in a Nitro Type Race.
 
 ## Requirements
 ### Operating System
-- Windows
+- Windows (other operating systems might work as well, though the program probably needs to be adapted)
 
 ### Browser
 - Chromium based browser (Google Chrome recommended)
