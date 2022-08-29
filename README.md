@@ -17,9 +17,9 @@ This program is able to perform >7000 wpm in a Nitro Type Race.
 - pywin32
 
 
-## Setting up SingleFile
+## Setting up SingleFile (assuming Chrome browser)
 ### Configure Settings
-1. In the Chrome browser click on the three dots in the top right corner
+1. In the browser click on the three dots in the top right corner
 2. Click on "Settings"
 3. On the left-hand-side click on "Extensions"
 4. Click on "Details" of the SingeFile extension
